@@ -30,7 +30,10 @@
 
 ## 截图
 
-[截图待添加]
+![image](https://github.com/user-attachments/assets/4f8b6651-5b91-47a7-a506-8396f77c5f1f)
+
+![PixPin_2025-05-10_10-38-21](https://github.com/user-attachments/assets/59f465c7-a79b-45a9-9160-771919a372dc)
+
 
 ## 许可证
 
